@@ -1,8 +1,8 @@
-# Options Pricing & Greeks Lab
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/265c5493-50a0-4f30-801f-cc1775a8ce33" /># Options Pricing & Greeks Lab
 
 An interactive quantitative toolkit for pricing options, measuring risk and analysing multi-leg strategies, built in **Python + Streamlit** on top of a **tested, pure-Python pricing library** (`optionslab/`, no Streamlit imports).
 
-**Live app:** `https://YOUR-APP-NAME.streamlit.app` *(placeholder — replace after deploying, see [Deploy](#deploy-to-streamlit-community-cloud))*
+**Live app:** `https://options-pricing-greeks-lab-bs66px3bvtzulfgs6ecmdm.streamlit.app/` *(placeholder — replace after deploying, see [Deploy](#deploy-to-streamlit-community-cloud))*
 
 ![Demo](docs/demo.gif)
 
